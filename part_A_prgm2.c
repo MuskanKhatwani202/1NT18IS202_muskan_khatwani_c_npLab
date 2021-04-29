@@ -1,3 +1,5 @@
+//design a c program to implement bit stuffing encoding decoding concept in data link layer
+
 #include<stdio.h>
 #include<stdlib.h>
 #define MAXSIZE 100
